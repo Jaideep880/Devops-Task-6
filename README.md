@@ -1,2 +1,2 @@
 Link for opening 
-https://Jaideep880.github.io/Devops-task6/
+https://jaideep880.github.io/Devops-Task-6/
