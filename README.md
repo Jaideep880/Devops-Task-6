@@ -35,12 +35,6 @@ In this task, I created a basic yet fully functional static website and hosted i
 
 ---
 
-## 📸 Screenshot
-
-> *(You can add a screenshot of the live website here)*
-
----
-
 ## 📌 Key Learnings
 
 - Learned how to host static content using **GitHub Pages**.
